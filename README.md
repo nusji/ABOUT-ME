@@ -1,0 +1,7 @@
+- 👋 Hi, I'm @nusji (AMIN DAOH)
+- 👀 I'm primarily interested in network engineering and systems administration. I enjoy designing, implementing, and troubleshooting network infrastructures.
+- 🌱 I'm currently studying at Prince of Songkla University
+- 💞️ I'm looking to collaborate on projects related to network architecture, security, and automation. I'm eager to work with teams that are passionate about building robust and efficient network solutions.
+- 📫 How to reach me: You can contact me via email at rqmyyn.work@gmail.com or connect with me on [LinkedIn](.....)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: In my free time, I enjoy hiking and exploring nature. I find solace and inspiration in the great outdoors, whether it's trekking through lush forests or scaling scenic mountain trails.
